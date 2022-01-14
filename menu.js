@@ -43,7 +43,7 @@ const pizza = [{'name':'BBQ Pizza', 'Price': 10, "category": "pizza", 'popularit
 */
 
 //CODE HERE
-
+console.log (pizza.popularity)
 
 /*
     Second, log the second tag in your pizza's
